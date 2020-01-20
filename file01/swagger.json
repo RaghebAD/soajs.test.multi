@@ -1,8 +1,8 @@
 {
   "swagger" : "2.0",
   "info" : {
-    "version" : "1.0001",
-    "title" : "scheduler1"
+    "version" : "1906.0001",
+    "title" : "scheduler"
   },
   "basePath" : "/scheduler",
   "paths" : {
